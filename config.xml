@@ -6,8 +6,8 @@
 
     <name>First app</name>
     <description>My first mobile app</description>
-    <author href="http://mypersonalwebsite.com" email="johnbrown@gmail.com">
-		John Brown
+    <author href="http;/google.com" email="tanazzu@gmail.com">
+		Dariusz Pastwa
 	</author>
 	<platform name="android" />
 	
