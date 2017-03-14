@@ -3,14 +3,7 @@ function init() {
 }
 
 
-function personalInfo() {
 
-	infoo =  'Hi, I'm your developer' + '\n' +
-	
-
-	navigator.notification.alert(infoo);
-	
-}
 function onDeviceReady() {
 	navigator.notification.beep(1);
 }
@@ -28,5 +21,14 @@ function deviceInfo() {
 			'Device Version : '  + device.version  + '\n';
 
 	navigator.notification.alert(info);
+	
+}
+
+function personalInfo() {
+
+	infoo =  'Hi, I'm your developer' + '\n' +
+	
+
+	navigator.notification.alert(infoo);
 	
 }
