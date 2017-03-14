@@ -26,7 +26,7 @@ function deviceInfo() {
 
 function personalInfo() {
 
-	infoo =  'Hi, I'm your developer' + '\n' +
+	infoo =  'Hi, I`m your developer' + '\n';
 	
 
 	navigator.notification.alert(infoo);
